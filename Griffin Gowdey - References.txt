@@ -1,0 +1,23 @@
+#1
+Name: Todd Slavinsky
+Job Title: Senior Director, Baseball Systems
+Organization: Texas Rangers
+Relationship: Former supervisor
+Email: tslavinsky@texasrangers.com
+Phone Number: (817) 905-2987
+
+#2
+Name: Mike Rathwell
+Job Title: CEO
+Organization: Driveline Baseball
+Relationship: Former supervisor
+Email: mike@drivelinebaseball.com
+Phone Number: (425) 523-4030
+
+#3
+Name: Sam Visser
+Job Title: Manager, Baseball Technology
+Organization: Houston Astros
+Relationship: Former supervisor
+Email: svisser@astros.com
+Phone Number: (832) 691-7340
